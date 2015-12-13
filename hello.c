@@ -2,5 +2,6 @@
 int main(){
 	printf("lizhengxiang\n");
 	printf("lizhengxiang\n");
+	printf("lizhengxiang\n");
 	return 0;
 }
